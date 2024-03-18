@@ -13,5 +13,6 @@ shortcuts:
     `q`, ^C quit
 ```
 
-out
+## out
+
 <img src="./images/out.png"></img>
