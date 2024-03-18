@@ -12,3 +12,6 @@ shortcuts:
     `gg`    move to first bin
     `q`, ^C quit
 ```
+
+out
+<img src="./images/out.png"></img>
